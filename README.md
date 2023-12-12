@@ -1,1 +1,1 @@
-Structure Query Language Workout
+Structured Query Language Workout
